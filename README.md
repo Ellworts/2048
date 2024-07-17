@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://ellworts.github.io/2048/)
+- [DEMO LINK](https://ellworts.github.io/2048/)
